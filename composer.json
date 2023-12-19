@@ -52,5 +52,5 @@
     },
     "minimum-stability": "dev",
     "prefer-stable": true,
-    "bin": ["builds/laravel-dev-tools"]
+    "bin": ["laravel-dev-tools"]
 }
